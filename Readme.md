@@ -15,11 +15,11 @@ You will be graded on:
 
 | Book Problems |                       | Points  |
 | --------------|:----------------------:|:-------:|
-| D.A.A. 1.1.5  | Common Elements        | 10 pts  |
-| D.A.A. 1.1.12 | Locker Doors           | 10 pts  |
-| D.A.A. 1.2.9  | Min Distance           | 10 pts  |
-| D.A.A. 1.3.5  | Icosian Game           | 10 pts  |
-| Total         |                        | 40 pts |
+| D.A.A. 1.1.5  | Common Elements        | 8/10 pts  |
+| D.A.A. 1.1.12 | Locker Doors           | 10/10 pts  |
+| D.A.A. 1.2.9  | Min Distance           | 10/10 pts  |
+| D.A.A. 1.3.5  | Icosian Game           | 10/10 pts  |
+| Total         |                        | 38/40 pts |
 
 ## Instructions
 1. Save a word or pdf document into the LM?_0_Written folder with your answers to the problems assigned below.
@@ -34,9 +34,9 @@ You will be graded on:
 
 | SPOJ Problems   |                        |         |
 | --------------|:----------------------:|:-------:|
-| SPOJ "TEST"    | Warm up exercise      | 40 pts  |
-| SPOJ "MEOWIST" | More challenging      | 40 pts  |
-| Total          |                     | Total: 100 |
+| SPOJ "TEST"    | Warm up exercise      | 40/40 pts  |
+| SPOJ "MEOWIST" | More challenging      | 40/40 pts  |
+| Total          |                     | Total: 98/100 |
 
 ## Instructions:
 1. Use git to clone this folder from Whitgit to a local machine 
