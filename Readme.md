@@ -34,8 +34,8 @@ You will be graded on:
 
 | SPOJ Problems   |                        |         |
 | --------------|:----------------------:|:-------:|
-| SPOJ "TEST"    | Warm up exercise      | 40/40 pts  |
-| SPOJ "MEOWIST" | More challenging      | 40/40 pts  |
+| SPOJ "TEST"    | Warm up exercise      | 30/30 pts  |
+| SPOJ "MEOWIST" | More challenging      | 30/30 pts  |
 | Total          |                     | Total: 98/100 |
 
 ## Instructions:
